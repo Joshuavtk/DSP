@@ -1,0 +1,9 @@
+STILL TO DO:
+	
+- erase the link or change to links
+- explain why the filter saturates
+- complete yellow things
+- update photos of the power result and explain the thresholds, say of how much is the time
+- conclusion
+- gehitu portada
+- update index pages
